@@ -10,7 +10,7 @@ CSV转换为PascalVOC的步骤:
 2、CSV2pascalvoc_trval.py，生成PascalVOC格式的txt文档；
 
 PascalVOC转换为COCO的步骤:
-1、运行PascalVoc2COCO.py，生成json文件
+运行PascalVoc2COCO.py，生成json文件
 
 
 
